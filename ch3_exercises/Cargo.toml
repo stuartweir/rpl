@@ -1,0 +1,6 @@
+[package]
+name = "ch3_exercises"
+version = "0.1.0"
+authors = ["Stuart Weir <cameron.weir@mytwu.ca>"]
+
+[dependencies]
